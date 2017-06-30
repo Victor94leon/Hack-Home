@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp">
+    <TextView
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewTitle" />
+    <TextView
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewStatus" />
+<!-- Property Change Conflict | source:land, id:@+id/textView3 | id=@+id/textViewStatus -->
+<!-- Property Change Conflict | source:land, id:__root__ | paddingBottom=10dp -->
+<!-- Property Change Conflict | source:land, id:__root__ | paddingTop=10dp -->
+<!-- Property Change Conflict | source:land, id:__root__ | paddingLeft=5dp -->
+<!-- Property Change Conflict | source:land, id:__root__ | minHeight removed -->
+<!-- Property Change Conflict | source:land, id:__root__ | minWidth removed -->
+</LinearLayout>

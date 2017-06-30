@@ -1,0 +1,60 @@
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\SAL.dll.config
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\SAL.dll
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\SAL.pdb
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\SAL.SAL.apk
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\SAL.SAL-Signed.apk
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\Entities.dll
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\Newtonsoft.Json.dll
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\Entities.pdb
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\DiplomadoXamarin\HackAtHome\SAL\bin\Debug\Newtonsoft.Json.xml
+C:\DiplomadoXamarin\HackAtHome\SAL\obj\Debug\SAL.csprojResolveAssemblyReference.cache
+C:\DiplomadoXamarin\HackAtHome\SAL\obj\Debug\SAL.dll
+C:\DiplomadoXamarin\HackAtHome\SAL\obj\Debug\SAL.pdb
+C:\DiplomadoXamarin\HackAtHome\SAL\obj\Debug\android\bin\SAL.SAL.apk
+C:\DiplomadoXamarin\HackAtHome\SAL\obj\Debug\res\values\strings.xml
+C:\DiplomadoXamarin\HackAtHome\SAL\obj\Debug\R.cs.flag
+C:\DiplomadoXamarin\HackAtHome\SAL\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\SAL.dll.config
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\SAL.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\SAL.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\SAL.SAL.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\SAL.SAL-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\SAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\SAL.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\SAL.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\android\bin\SAL.SAL.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\obj\Debug\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\SAL\bin\Debug\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\SAL.dll.config
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\SAL.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\SAL.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\SAL.SAL.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\SAL.SAL-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\SAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\SAL.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\SAL.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\android\bin\SAL.SAL.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\obj\Debug\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\SAL\bin\Debug\SAL.dll.mdb

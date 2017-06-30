@@ -1,0 +1,37 @@
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.dll
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.pdb
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.Entities.apk
+C:\DiplomadoXamarin\HackAtHome\Entities\bin\Debug\Entities.Entities-Signed.apk
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\Entities.dll
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\Entities.pdb
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\android\bin\Entities.Entities.apk
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\res\values\strings.xml
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\R.cs.flag
+C:\DiplomadoXamarin\HackAtHome\Entities\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\bin\Debug\Entities.Entities.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\bin\Debug\Entities.Entities-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\android\bin\Entities.Entities.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\obj\Debug\Entities.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\Entities\bin\Debug\Entities.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\bin\Debug\Entities.Entities.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\bin\Debug\Entities.Entities-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\android\bin\Entities.Entities.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\Entities.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\bin\Debug\Entities.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\obj\Debug\Entities.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\Entities\bin\Debug\Entities.dll.mdb

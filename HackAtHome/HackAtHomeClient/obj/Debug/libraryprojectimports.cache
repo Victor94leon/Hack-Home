@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\CustomAdapters\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\Entities\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\SAL\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\UrlImageViewHelper\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\CustomAdapters\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Entities\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SAL\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\UrlImageViewHelper\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\CustomAdapters.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\Entities.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\SAL.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\__library_projects__\UrlImageViewHelper.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,45 @@
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.dll
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.pdb
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.CustomAdapters.apk
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.CustomAdapters-Signed.apk
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\bin\Debug\Entities.dll
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\bin\Debug\Entities.pdb
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\obj\Debug\CustomAdapters.csprojResolveAssemblyReference.cache
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\obj\Debug\CustomAdapters.dll
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\obj\Debug\CustomAdapters.pdb
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\obj\Debug\android\bin\CustomAdapters.CustomAdapters.apk
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\obj\Debug\res\values\strings.xml
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\obj\Debug\R.cs.flag
+C:\DiplomadoXamarin\HackAtHome\CustomAdapters\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.CustomAdapters.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.CustomAdapters-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\CustomAdapters.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\CustomAdapters.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\CustomAdapters.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\android\bin\CustomAdapters.CustomAdapters.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\obj\Debug\CustomAdapters.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\CustomAdapters\bin\Debug\CustomAdapters.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\CustomAdapters.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\CustomAdapters.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\CustomAdapters.CustomAdapters.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\CustomAdapters.CustomAdapters-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\CustomAdapters.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\CustomAdapters.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\CustomAdapters.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\android\bin\CustomAdapters.CustomAdapters.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\CustomAdapters.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\CustomAdapters.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\obj\Debug\CustomAdapters.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\CustomAdapters\bin\Debug\CustomAdapters.dll.mdb

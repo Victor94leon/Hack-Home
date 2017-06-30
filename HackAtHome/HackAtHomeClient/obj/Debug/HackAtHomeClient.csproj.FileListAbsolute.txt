@@ -1,0 +1,151 @@
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll.config
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.pdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.HackAtHomeClient.apk
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.HackAtHomeClient-Signed.apk
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\CustomAdapters.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\Entities.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\SAL.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\Newtonsoft.Json.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\CustomAdapters.pdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\Entities.pdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\SAL.pdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\Newtonsoft.Json.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\HackAtHomeClient.csprojResolveAssemblyReference.cache
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\HackAtHomeClient.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\HackAtHomeClient.pdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\android\bin\HackAtHomeClient.HackAtHomeClient.apk
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\layout-land\main.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\evidences.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\listitem.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\layout-land\evidences.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\layout-land\listitem.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\main.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\values\strings.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\drawable\icon.png
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\drawable\hh.jpeg
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\values-en\strings.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\values-pt\strings.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\R.cs.flag
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\uploadflags.txt
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\evidencedetail.xml
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\UrlImageViewHelper.dll
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\CustomAdapters.dll.mdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\Entities.dll.mdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\SAL.dll.mdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll.mdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\android\assets\CustomAdapters.dll.mdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\android\assets\Entities.dll.mdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\android\assets\HackAtHomeClient.dll.mdb
+C:\DiplomadoXamarin\HackAtHome\HackAtHomeClient\obj\Debug\android\assets\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll.config
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.HackAtHomeClient.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.HackAtHomeClient-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\CustomAdapters.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\SAL.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\UrlImageViewHelper.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\CustomAdapters.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\SAL.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\HackAtHomeClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\HackAtHomeClient.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\HackAtHomeClient.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\android\bin\HackAtHomeClient.HackAtHomeClient.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\layout-land\main.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\evidences.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\listitem.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\layout-land\evidences.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\layout-land\listitem.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\evidencedetail.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\layout\main.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\drawable\icon.png
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\drawable\hh.jpeg
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\values-en\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\res\values-pt\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\obj\Debug\HackAtHomeClient.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHome\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\HackAtHomeClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll.config
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\HackAtHomeClient.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\HackAtHomeClient.HackAtHomeClient.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\HackAtHomeClient.HackAtHomeClient-Signed.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\CustomAdapters.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Entities.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\SAL.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\UrlImageViewHelper.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\CustomAdapters.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Entities.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\SAL.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\HackAtHomeClient.dll
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\HackAtHomeClient.pdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\bin\HackAtHomeClient.HackAtHomeClient.apk
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\layout-land\main.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\layout\evidences.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\layout\listitem.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\layout-land\evidences.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\layout-land\listitem.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\layout\evidencedetail.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\layout\main.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\values\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\values-en\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\values-pt\strings.xml
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\res\drawable\android.png
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\R.cs.flag
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\uploadflags.txt
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\CustomAdapters.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Entities.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\mscorlib.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.Core.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.Xml.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\CustomAdapters.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\Entities.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\HackAtHomeClient.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\SAL.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.Runtime.InteropServices.RuntimeInformation.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\obj\Debug\HackAtHomeClient.dll.mdb
+C:\Users\Administrador.DESKTOP-40SMMST\Documents\Visual Studio 2015\Projects\HackAtHomeCopia\HackAtHomeClient\bin\Debug\HackAtHomeClient.dll.mdb
